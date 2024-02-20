@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:hover {
+  background-color: #d6c3f8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
